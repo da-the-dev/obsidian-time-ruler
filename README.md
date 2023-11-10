@@ -112,3 +112,8 @@ For more information on past and future updates, please consult the [roadmap and
 If you appreciate this plugin, I would love your support for further development!
 
 <a href="https://www.buymeacoffee.com/joshuatreinier" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+# Footnote on goals of this particular fork
+Here's stuff I'd like to change:
+- [ ] Add an ability to group tasks into calendars and filter the view
+- [ ] Let users pick a custom way to mark tasks. Right now the only options are to use the defaults from Day Planner, Dataview, Tasks, or Full Calendar. This is quite restricting. Maybe a customizable format and a corresponding task creator would work better.
